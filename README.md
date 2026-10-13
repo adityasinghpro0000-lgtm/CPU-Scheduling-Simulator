@@ -1,4 +1,4 @@
-# CPU Scheduling Simulator
+# CPU Scheduling Simulator - (with Integrated Job Scheduling)
 
 **Operating Systems Project**  
 **Subject Code:** 21CSC202J
@@ -28,7 +28,7 @@ The application is built with plain HTML, CSS, and JavaScript on the frontend, a
 - Profile-based workspace management and saved profile experience
 - Demo mode and workspace landing page for project presentation
 
-## Screenshots
+## Simulator Screenshots
 
 ![Simulator screenshot 1](docs/screenshots/simulator-1.png)
 
@@ -159,7 +159,7 @@ The simulator is useful for analyzing the trade-offs between fairness, responsiv
 - The local server is intentionally lightweight to keep the project easy to run in classroom and lab environments.
 - The UI includes accessibility features to make the simulator easier to use in a wide range of settings.
 
-## Authors
+## Team Members
 
 - Aditya Kumar Singh - RA2511028020094
 - Suryanshu Roy - RA2511028020093
