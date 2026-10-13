@@ -1,4 +1,4 @@
-# CPU Scheduling Simulator
+# CPU Scheduling Simulator - (with Integrated Job Scheduling)
 
 **Operating Systems Project**  
 **Subject Code:** 21CSC202J
